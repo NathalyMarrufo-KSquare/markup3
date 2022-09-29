@@ -1,0 +1,156 @@
+.body-Des{
+    background-color: black;
+    display: grid;
+    justify-content: center;
+}
+
+.container1{
+    background-color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 45px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.step-Bar{
+    background-color: rgba(249,250,251,255);
+    display: flex;
+    margin: 2%;
+}
+
+.round-Cont{
+height: 30px;
+width: 30px;
+border-radius: 50%;
+text-align: center;
+display: grid;
+color:rgba(79,70,229,255) ;
+font-size: 15px;
+font-weight:500 ;
+font-weight:900 ;
+
+}
+
+
+.green-Col{
+    background-color: rgba(20,184,166,255) ;
+}
+.step-Text1{
+    color: rgba(20,184,166,255);
+}
+
+.blue-Col{
+background-color: rgba(79,70,229,255);
+}
+
+.step-Text2{
+   color: rgba(79,70,229,255);
+
+}
+
+.num{    
+    color:  white;
+    margin: auto;
+}
+
+.num2{
+    color:  white;
+    margin: auto;
+}
+.num3{
+    margin: auto;
+}
+
+.step-Text{
+width:min-content;
+height: fit-content;
+margin: auto;
+font-size: 20px;
+font-weight:700 ;
+}
+
+
+
+.line-Des{
+   
+    -webkit-transform:rotate(0deg);
+    margin-block-start: auto;
+    margin-block-end: auto;
+    margin-inline-start: auto;
+    width:45px;
+    height:1px;
+    left:130px;
+    border:1px;
+    border-style: dotted;
+}
+
+.content{
+    margin: 2%;
+}
+
+.head-Des{
+    font-size: 22px;
+}
+
+.descript-Des{
+    color: gray;
+    font-size: 15px;
+}
+
+.meal-Des{
+    color: rgba(133,139,150,255);
+    width: 40px;
+}
+
+.drink-Des2{
+    color: rgba(133,139,150,255);
+    margin-left: 300px;
+}
+.drink-Des{
+    color: rgba(133,139,150,255);
+    margin-left: 330px;
+
+}
+
+.selector-Des{
+    margin-top: 10px;
+    margin-bottom: 17px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 15px;
+}
+
+.box-Des{
+    width: 350px;
+}
+
+.drink-des{
+ width: 150px;
+}
+
+.check-Des{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.back-Des{
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    border: white;
+    border-radius: 3px;
+    margin-left: 5%;
+}
+
+.continue-Des{
+    background-color: rgba(79,70,229,255);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    border: rgba(79,70,229,255);
+    border-radius: 3px;
+    margin-left: 400px;
+}
